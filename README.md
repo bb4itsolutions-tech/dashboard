@@ -1,3 +1,4 @@
+
 # Sprint Dashboard — Project 3
 
 React + TypeScript + Recharts + Tailwind + Vite. Team task manager / project
@@ -38,3 +39,4 @@ with a real API call later; the component props already expect this shape.
 - **How would you connect this to a real API?** _______
   What changes in the data layer?
 - **Deployed URL:** _______
+
