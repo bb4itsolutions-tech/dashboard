@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/components/DateRangeFilter/index.tsx","./src/components/KPICard/index.tsx","./src/components/SprintBurndown/index.tsx","./src/components/StatusPie/index.tsx","./src/components/VelocityChart/index.tsx","./src/data/dashboardData.ts"],"version":"5.9.3"}
